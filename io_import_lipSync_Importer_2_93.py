@@ -21,7 +21,7 @@
 
 bl_info = {
     "name": "LipSync Importer & Blinker",
-    "author": "Yousef Harfoush - bat3a ;) / Konstantin Dmitriev / fixed for 2.76x by Looch / 2.8 fix by iCEE HAM", 
+    "author": "Yousef Harfoush - bat3a ;) / Konstantin Dmitriev / fixed for 2.76x by Looch / 2.8 fix by iCEE HAM / 2.93 fix by Hunanbean", 
     "version": (0, 5, 3),
     "blender": (2, 80, 0),
     "location": "3D window > Tool Shelf",

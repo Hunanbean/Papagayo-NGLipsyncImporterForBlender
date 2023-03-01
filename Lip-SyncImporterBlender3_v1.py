@@ -21,15 +21,11 @@
 
 bl_info = {
     "name": "LipSync Importer & Blinker",
-    "author": "Yousef Harfoush - bat3a ;) / Konstantin Dmitriev / fixed for 2.76x by Looch / 2.8 fix by iCEE HAM / 2.93 fix by Hunanbean", 
-    "version": (0, 5, 5),
-    "blender": (3, 0, 0),
+    "author": "Yousef Harfoush - bat3a ;) / Konstantin Dmitriev / fixed for 2.76x by Looch / 2.8 fix by iCEE HAM / 2.93 fix by Hunanbean / 3.x fix by Hunanbean", 
+    "version": (1, 0, 0),
+    "blender": (3, 3, 2),
     "location": "3D window > Tool Shelf",
     "description": "Plot Moho (Papagayo, Jlipsync, Yolo) file to frames and adds automatic blinking. Modified by Konstantin Dmitriev for Morevna Project to support Pose Libraries and CG Cookie Flex Rig",
-    "warning": "",
-    "wiki_url": "http://wiki.blender.org/index.php?title=Extensions:2.6/Py/"
-    "Scripts/Import-Export/Lipsync Importer",
-    "tracker_url": "https://developer.blender.org/T24080",
     "category": "Import-Export"}
 
 

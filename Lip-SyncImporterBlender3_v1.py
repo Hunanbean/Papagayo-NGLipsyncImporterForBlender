@@ -31,8 +31,7 @@ bl_info = {
 
 import bpy, re
 from random import random
-from bpy.props import *
-from bpy.props import IntProperty, FloatProperty, StringProperty
+from bpy.props import EnumProperty, FloatProperty, StringProperty, PointerProperty, IntProperty
 
 global lastPhoneme
 lastPhoneme="nothing"

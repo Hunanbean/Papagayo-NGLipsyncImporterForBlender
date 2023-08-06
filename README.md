@@ -1,5 +1,8 @@
 # Papagayo-NGLipsyncImporterForBlender
-I am unable so far to get this working with Grease Pencil styles/Pose Library's new access method. If you have any insights, or would like to take over this plugin, please let me know. Feel free to open an Issue
+# Grease Pencil Issue, but 3D still works fine
+
+for 2D only, I am unable so far to get this working with Grease Pencil styles/Pose Library's new access method 
+<b>3D Still Works Fine.</b> If you have any insights, or would like to take over this plugin, please let me know. Feel free to open an Issue
 
 
 
